@@ -43,7 +43,16 @@
                     <div class="intro-text">
                         <span class="name">Viet Le</span>
                         <hr class="star-light">
-                        <span class="skills">Web Developer</span>
+                        <span class="skills">Web Developer</span><br>
+
+                            <ul class="list-inline">
+                                {% for network in site.social %}
+                                <li>
+                                    <a href="{{ network.url }}" class="btn-social btn-outline"><i class="fa fa-fw fa-{{ network.title }}"></i></a>
+                                </li>
+                                {% endfor %}
+                            </ul>
+
                     </div>
                 </div>
             </div>
