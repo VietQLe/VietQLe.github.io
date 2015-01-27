@@ -2,7 +2,9 @@
 layout: default
 modal-id: 2
 date: 2014-07-17
-img: safe.png
+img: Evermark.png
+img2: Evermark1.png
+img3: Evermark2.png
 alt: image-alt
 project-date: April 2014
 client: Evermarkme
