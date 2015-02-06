@@ -8,6 +8,6 @@ alt: image-alt
 project-date: December 2014 - Jan 2015
 client: Marketshare
 category: Web Development
-description: Built a lead generation tool for corporate marketing website that integrated with an internal predicative analytics backend. Integrated with Pardot API to save prospect information in the CRM
+description: Built a lead generation tool in AngularJS for the corporate website. Captured user input to feed into a predictive analytics API to generate results that entices visitors to contact the sales team. Implemented Node API to generate PDF with PhantomJS that formatted results for visitor download. Integrated with Pardot API to save prospect information Salesforce.
 
 ---
